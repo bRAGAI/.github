@@ -46,9 +46,6 @@ involved:
 5.  **Open a Pull Request**: Go to the original repository and open a
     pull request.
 
-## License
-All projects within the bRAG AI organization are licensed under open-source licenses, primarily the [MIT License](LICENSE), unless stated otherwise.
-
 ## Contact
 Do you have questions or want to collaborate? Please open an issue on the respective repository or email at tahababou12@gmail.com
 
