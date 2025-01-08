@@ -23,5 +23,5 @@ involved:
     pull request.
 
 ## Contact
-Do you have questions or want to collaborate? Please open an issue on the respective repository or email at tahababou12@gmail.com
+Do you have questions or want to collaborate? Please open an issue on the respective repository email Taha Ababou at taha@bragai.tech
 
