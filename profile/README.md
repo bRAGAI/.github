@@ -1,4 +1,4 @@
-# bRAG AI
+# bRAGAI
 
 **[Get Early Access to bRAGAI's official platform!](https://bragai.dev)**
 
